@@ -1,0 +1,16 @@
+body{
+    background-image: url("R.png");
+}
+
+#button_play
+{
+    float: none;
+    background-color: darkred;
+    margin-top: 15px;
+}
+
+canvas{
+    box-shadow: 10px 10px 5px aqua;
+    border: 10px solid whitesmoke;
+    background-color: azure;
+}
